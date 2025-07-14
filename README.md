@@ -39,7 +39,7 @@ cd reddia
   "ELEVEN_API_KEY": "tu_clave_api_aquí"
 }
 ```
-### 4.Uso
+### 4. Uso
 
 Ejecuta el script principal con tus parámetros favoritos:
 
