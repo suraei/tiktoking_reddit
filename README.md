@@ -1,4 +1,4 @@
-# 🎥 Reddia: Transforma historias de Reddit en vídeos para TikTok
+# 🎥 Reddia
 
 Reddia es una herramienta que convierte publicaciones populares de Reddit en vídeos verticales, con narración por voz y subtítulos animados. Ideal para contenido corto en TikTok, Reels o Shorts. 🧠🗣️🎬
 
